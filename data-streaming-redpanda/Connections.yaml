@@ -1,0 +1,6 @@
+defaultNamespace:
+  connections:
+    - type: kafka
+      name: stream
+      config:
+        brokerAddress: localhost:9092
